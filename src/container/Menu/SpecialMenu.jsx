@@ -21,8 +21,8 @@ const SpecialMenu = () => (
         </div>
       </div>
 
-      <div className="app__specialMenu-menu-img">
-        <img src={images.menu} style={{width:'100%'}}alt="menu img" />
+      <div className="app__specialMenu-menu_img">
+        <img src={images.menu} style={{width:'75%'}} alt="menu img" />
       </div>
 
       <div className="app__specialMenu-menu_cocktails flex__center">
